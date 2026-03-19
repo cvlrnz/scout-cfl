@@ -1,2 +1,4 @@
-# scout-cfl
-B2B lead generation and outreach CRM — ControlFlow Labs
+# SCOUT — ControlFlow Labs
+**B2B Lead Generation + Outreach CRM**
+
+Deploy: import this repo on vercel.com
