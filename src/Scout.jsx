@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 // ─── Constants ───────────────────────────────────────────────────────────────
-const CLAUDE  = "https://api.anthropic.com/v1/messages";
+const CLAUDE  = "/api/claude";
 const CO = "/api/co-search";
 const MODEL   = "claude-sonnet-4-20250514";
 const GMAIL   = "https://gmail.mcp.claude.com/mcp";
